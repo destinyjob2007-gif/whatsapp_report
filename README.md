@@ -1,3 +1,6 @@
+​⚠️ Disclaimer
+​This tool is for educational and authorized security testing purposes only. The developers of ANON-Tactical are not responsible for any misuse or violations of third-party Terms of Service.
+
 # 🛡️ ANON-Tactical v2.6.0
 **Elite Strike & Recovery Hybrid Protocol**
 
