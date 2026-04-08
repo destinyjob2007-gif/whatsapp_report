@@ -7,6 +7,13 @@
 ANON  is a specialized Python-based interface designed for high-impact security reporting and account restoration appeals. It utilizes professional-grade "Authority Tone" evidence to ensure reports are prioritized by safety teams.
 
 ---
+#  App password Guide
+​How to generate your SMTP Key:
+​Enable 2FA: Go to your Google Account Security settings and ensure 2-Step Verification is turned ON.
+​Search for App Passwords: In the search bar at the top of your Google Account, type "App passwords".
+​Create Name: Give it a name of your choice
+​Copy the Code: Google will show you a 16-character code (e.g., abcd efgh ijkl mnop).
+​Paste into ANON: When the script asks for your password, paste that 16-digit code.
 
 ## 🚀 Quick Start (Termux/Linux)
 
